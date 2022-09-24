@@ -1,0 +1,43 @@
+.container {
+    max-width: 120rem;
+    padding: 0 1rem;
+    margin: 3rem auto auto 0;
+    float: left;
+  }
+
+  .page_container {
+    width: 100%;
+  }
+  .left_container {
+    width: 16rem;
+    display: block;
+    float: left;
+  }
+  .main_content {
+    min-width: 150rem;
+    float: left;
+    display: block;
+  }
+  
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .backToHome {
+    margin: 3rem 0 0;
+  }
+  .second_main {
+    padding-top: 16rem;
+  }
+  .cell {
+    width: 3rem;
+    display: block;
+    float: left;
+    clear: none;
+    font-size: 0.6rem;
+  }
+  .leftAlign {
+    text-align: left;
+  }
