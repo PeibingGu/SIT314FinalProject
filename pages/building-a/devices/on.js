@@ -1,12 +1,9 @@
 import Link from 'next/link';
-import Script from 'next/script';
 import Head from 'next/head';
 import Image from 'next/image';
 import Layout from '../../../components/layout';
 import styles from '../../../components/layout.module.css';
-import { useState } from 'React';
 
-import { useRouter } from 'next/router';
 
 const PageTitle = "DeviceId";
 
